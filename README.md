@@ -1,5 +1,6 @@
 # **Covid-19 Update Tracker**
 
+
 - [Introduction](#Introduction)
 - [Solve the Problem?](#how-it-helps-to-solve-the-problem)
 - [Technologies used](#frameworkstechnologies-stacks-to-be-used)
@@ -8,7 +9,8 @@
 - [Presentation](#presentation)
 - [Screenshots](#screenshots)
 
----
+<br>
+
 ## **Introduction** 
 
 This is a project through which you can find Covid-19 Vaccination Centers near you via your pincode.
